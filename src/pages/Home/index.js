@@ -15,21 +15,21 @@ export default class Login extends Component {
                             {
                                 nome: "Chico",
                                 data: "29/04/2020",
-                                msg: "O dia das mães esta próximo, e a boticário tem muitas novidades.",
+                                msg: "O Boticário também é patrocinador de várias causas relacionadas à biodiversidade e às medidas de proteção ambiental..",
                                 email: ""
                             },{
                                 nome: "Alan",
-                                data: "29/04/2020",
-                                msg: "O dia das mães esta próximo, e a boticário tem muitas novidades.",
+                                data: "28/04/2020",
+                                msg: "A fábrica instalada em Camaçari (BA) é a maior do grupo. Ela foi inaugurada em setembro de 2014 e tem capacidade para fabricar até 150 milhões de produtos por ano.",
                                 email: ""
                             },{
                                 nome: "Rose",
-                                data: "29/04/2020",
-                                msg: "O dia das mães esta próximo, e a boticário tem muitas novidades.",
+                                data: "28/04/2020",
+                                msg: "O Centro de Pesquisa e Desenvolvimento do Grupo Boticário em São José dos Pinhais possui 8.000 metros quadrados e emprega 230 pesquisadores. O centro é tão grande que, para se ter uma ideia, ele tem a capacidade para desenvolver mais de 2.000 produtos ao mesmo tempo",
                                 email: ""
                             },{
                                 nome: "Josefá",
-                                data: "29/04/2020",
+                                data: "27/04/2020",
                                 msg: "O dia das mães esta próximo, e a boticário tem muitas novidades.",
                                 email: ""
                             }
